@@ -1,0 +1,5 @@
+baseURL: https://elephantoutsidetheroom.dev/
+languageCode: en-us
+title: Elephant Outside The Room
+theme:
+  - elephant

@@ -1,0 +1,6 @@
+[submodule "themes/elephant"]
+	path = themes/elephant
+	url = https://github.com/mwtaylor/ElephantHugoTheme
+[submodule "themes/base"]
+	path = themes/base
+	url = https://github.com/mwtaylor/HugoThemeBase
